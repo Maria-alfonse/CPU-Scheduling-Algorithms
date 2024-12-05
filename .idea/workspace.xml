@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa71e9a5-bb31-4c42-9f2e-ad645176e898" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="fa71e9a5-bb31-4c42-9f2e-ad645176e898" name="Changes" comment="comment test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NPSJF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NPSJF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/FCAI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/NPP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/NPSJF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Process.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/SRTF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Scheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/SchedulerGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TimelinePanel.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2pndn8NqYrwnr46zmU1DY5tcRRE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,11 +37,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/FCAI/Sem5/Data_Compression/Assignments/Assig3/CPU-Scheduling-Algorithms/.idea",
+    "last_opened_file_path": "F:/FCAI/Sem5/Operating_Systems/Assignments/Assig3/CPU-Scheduling-Algorithms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -37,6 +55,21 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\FCAI\Sem5\Data_Compression\Assignments\Assig3\CPU-Scheduling-Algorithms\.idea" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="CPU-Scheduling-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -55,10 +88,46 @@
       <option name="presentableId" value="Default" />
       <updated>1733405937807</updated>
       <workItem from="1733405939043" duration="299000" />
+      <workItem from="1733411129271" duration="338000" />
+      <workItem from="1733432037081" duration="281000" />
     </task>
+    <task id="LOCAL-00001" summary="comment removed">
+      <option name="closed" value="true" />
+      <created>1733411378835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733411378835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="comment test">
+      <option name="closed" value="true" />
+      <created>1733411441432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733411441432</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add files via upload" />
+    <MESSAGE value="comment removed" />
+    <MESSAGE value="comment test" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment test" />
   </component>
 </project>
