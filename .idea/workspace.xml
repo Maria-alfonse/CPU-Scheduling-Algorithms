@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa71e9a5-bb31-4c42-9f2e-ad645176e898" name="Changes" comment="comment test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NPSJF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NPSJF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/FCAI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/NPP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/NPSJF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Process.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/SRTF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Scheduler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/SchedulerGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TimelinePanel.class" beforeDir="false" />
-    </list>
+    <list default="true" id="fa71e9a5-bb31-4c42-9f2e-ad645176e898" name="Changes" comment="comment test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +77,7 @@
       <updated>1733405937807</updated>
       <workItem from="1733405939043" duration="299000" />
       <workItem from="1733411129271" duration="338000" />
-      <workItem from="1733432037081" duration="281000" />
+      <workItem from="1733432037081" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="comment removed">
       <option name="closed" value="true" />
@@ -107,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733411441432</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="comment test">
+      <option name="closed" value="true" />
+      <created>1733432630547</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733432630547</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
