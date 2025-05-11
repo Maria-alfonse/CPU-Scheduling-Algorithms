@@ -1,2 +1,24 @@
-# CPU-Scheduling-Algorithms-
-CPU Scheduling Simulator implementing Non-Preemptive Priority, SJF, SRTF, and custom FCAI scheduling. It calculates metrics like waiting and turnaround time while considering context switching. Process data is read from console or file, and users can select the desired algorithm via a menu-driven interface.
+# CPU Scheduling Simulator (Java)
+A Java program that simulates key CPU scheduling algorithms with performance analysis.
+
+## ✅ Implemented Schedulers
+- Non-Preemptive Priority
+- Non-Preemptive Shortest Job First (SJF)
+- Shortest Remaining Time First (SRTF)
+- FCAI Scheduling (Custom, dynamic factor-based)
+
+## 🧾 Input
+For each process:
+- Name, Arrival Time, Burst Time, Priority, Color
+
+Global:
+- Number of Processes
+- Quantum Time (used in FCAI)
+- Context Switch Time
+
+## 📤 Output
+- Execution order for each algorithm
+- Waiting & Turnaround Time per process
+- Averages for both
+- FCAI: dynamic quantum history
+- *Optional*: Graphical timeline
